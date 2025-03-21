@@ -90,14 +90,4 @@ LDR_Controlled_LED.ino
 Circuit_Diagram.png
 Demo_Video.mp4
 Report.pdf
-🛠 How to Use This Project
-Clone the repository to your local system:
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/ESP32_LED_Control.git
-Open the .ino files in Arduino IDE or PlatformIO (VS Code).
-Connect your ESP32 board to your computer.
-Upload the code to the ESP32.
-Assemble the circuit based on the provided diagrams.
-Run the project and observe the LED behavior.
+
